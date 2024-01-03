@@ -1,0 +1,1 @@
+@charset "UTF-8";.protyle-wysiwyg [data-node-id] span[data-type~=block-ref][style*=--memo]:after{content:"注";vertical-align:top;font-size:.5em}

@@ -1,0 +1,24 @@
+{
+  "name": "siyuan-plugin-replace",
+  "author": "Achuan-2",
+  "url": "https://github.com/Achuan-2/siyuan-plugin-replace",
+  "version": "0.0.6",
+  "minAppVersion": "2.9.5",
+  "backends": ["all"],
+  "frontends": ["all"],
+  "displayName": {
+    "en_US": "selection and replace",
+    "zh_CN": "添加直角引号"
+  },
+  "description": {
+    "zh_CN": "添加直角引号"
+  },
+  "readme": {
+    "default": "README.md"
+  },
+  "funding": {
+    "custom": [
+      "https://afdian.net/a/achuan-2"
+    ]
+  }
+}
